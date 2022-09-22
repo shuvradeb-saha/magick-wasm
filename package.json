@@ -1,5 +1,6 @@
 {
     "license": "Apache-2.0",
+    "name": "@imagemagick/magick-wasm",
     "version": "1.0.0",
     "repository": {
         "type": "git",
